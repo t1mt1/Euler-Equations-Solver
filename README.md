@@ -45,8 +45,8 @@ Additional simulations and intermediate test results are kept in `results/other_
 euler_solver/
 ├── src/
 │   ├── euler_eq_solver.py
-│   ├── hll_euler_eq_solver.py
-│   └── self_similar_sphere.py
+│   └──hll_euler_eq_solver.py
+│
 │
 ├── notebooks/
 │   ├── sod_shock_tube.ipynb
